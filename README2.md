@@ -19,17 +19,17 @@ Making the perfect sandwich is an art that combines the right ingredients, textu
 
 Spreads add moisture and bring everything together.***Common choices:***
 
-**Classic**: Mayonnaise, mustard, or butter.
-**Gourmet**: Pesto, hummus, or aioli.
-**Sweet**: Nut butter or jam for a sweet twist.
+- **Classic**: Mayonnaise, mustard, or butter.
+- **Gourmet**: Pesto, hummus, or aioli.
+- **Sweet**: Nut butter or jam for a sweet twist.
 
 ## 3. Pick Your Protein
 
 The main filling gives your sandwich substance:
 
-**Meat Options**: Turkey, ham, roast beef, chicken, or bacon.
-**Vegetarian**: Grilled tofu, tempeh, or plant-based patties.
-**Cheese**: Swiss, cheddar, provolone, or a creamy brie.
+- **Meat Options**: Turkey, ham, roast beef, chicken, or bacon.
+- **Vegetarian**: Grilled tofu, tempeh, or plant-based patties.
+- **Cheese**: Swiss, cheddar, provolone, or a creamy brie.
 
 ## 4. Add Fresh Veggies
 
